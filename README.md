@@ -5,6 +5,8 @@ This code/implementation is available for research purposes. If you are using th
 
 > Manh, Huynh and Alaghband, Gita. **Scene-LSTM: A Model for Human Trajectory Prediction**. *arXiv preprint arXiv:1808.04018 (2018).*
 
+> A new version of this paper will be coming soon. 
+
 **This repository contains**: 
 
  :heavy_check_mark: Processed data (in pixel and meter metrics) for ETH and UCY datasets. This data was also used in SGAN method.
@@ -14,7 +16,7 @@ This code/implementation is available for research purposes. If you are using th
  │     ├── meter/*.txt
   ```
  :heavy_check_mark: Scripts to convert pixel to meter and vice versa. Double check the paths to 
- homography matrices and inputs files.
+ homography matrices and input files.
 
  ```bash
  ├── data_utils
