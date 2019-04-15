@@ -13,7 +13,7 @@ This code/implementation is available for research purposes. If you are using th
  │     ├── pixel/*.txt
  │     ├── meter/*.txt
   ```
- :heavy_check_mark: Scripts to convert pixel to meter and vice versa.  (will be available soon).
+ :heavy_check_mark: Scripts to convert pixel to meter and vice versa.
 
  ```bash
  ├── data_utils
@@ -24,7 +24,7 @@ This code/implementation is available for research purposes. If you are using th
 - My implementation for LSTM. (will be available soon).
 - My implementation for Social-LSTM. (will be available soon)
 - My implementation for Scene-LSTM.  (will be available soon)
-- Visualization scripts. 
+- Visualization scripts. (will be available soon) 
 
 
 
