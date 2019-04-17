@@ -7,7 +7,7 @@ This code/implementation is available for research purposes. If you are using th
 
 > A new version of this paper will be coming soon. 
 
-**This repository contains**: 
+# This repository contains
 
  :heavy_check_mark: Processed data (in pixel and meter metrics) for ETH and UCY datasets. This data was also used in SGAN method.
  ```bash
@@ -28,6 +28,8 @@ This code/implementation is available for research purposes. If you are using th
 - My implementation for LSTM. (will be available soon).
 - My implementation for Social-LSTM. (will be available soon)
 - My implementation for Scene-LSTM.  (will be available soon)
+
+# Dependencies
 
 
 
