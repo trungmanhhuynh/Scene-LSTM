@@ -30,7 +30,7 @@ This code/implementation is available for research purposes. If you are using th
 
 # Dependencies
 The code was tested on Centos 7.0 with python 3.6.8 and pytorch 1.0.0.\
-The enviroment was setup using conda 4.5.12. 
+The environment was setup using conda 4.5.12. Additional required packages should be installed.
 
 
 
