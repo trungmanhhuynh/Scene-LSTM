@@ -29,8 +29,7 @@ This code/implementation is available for research purposes. If you are using th
 - My implementation for Scene-LSTM.  (will be available soon)
 
 # Dependencies
-The code was tested on Centos 7.0 with python 3.6.8 and pytorch 1.0.0.
-
+The code was tested on Centos 7.0 with python 3.6.8 and pytorch 1.0.0.\
 The enviroment was setup using conda 4.5.12. 
 
 
