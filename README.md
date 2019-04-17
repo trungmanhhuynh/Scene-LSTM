@@ -8,7 +8,6 @@ This code/implementation is available for research purposes. If you are using th
 > A new version of this paper will be coming soon. 
 
 # This repository contains
-
  :heavy_check_mark: Processed data (in pixel and meter metrics) for ETH and UCY datasets. This data was also used in SGAN method.
  ```bash
  ├── data 
@@ -30,6 +29,8 @@ This code/implementation is available for research purposes. If you are using th
 - My implementation for Scene-LSTM.  (will be available soon)
 
 # Dependencies
+The code was tested on Centos 7.0 with python 3.6.8 and pytorch 1.0.0.
+The enviroment was setup using conda 4.5.12. 
 
 
 
