@@ -21,15 +21,15 @@ This code/implementation is available for research purposes. If you are using th
  │     ├── eth_utils/*.m (matlab scripts to process eth data)
  │     ├── data_utils/*.m (matlab scripts to process ucy data))
  ```
-- Visualization scripts. (will be available soon) 
-- My implementation for LSTM. (will be available soon).
-- My implementation for Social-LSTM. (will be available soon)
-- My implementation for Scene-LSTM.  (will be available soon)
+ All of the following items are available: 
+- Visualization scripts. 
+- My implementation for LSTM. 
+- My implementation for Social-LSTM. 
+- My implementation for Scene-LSTM. 
 
 # Dependencies
 The code was tested on Centos 7.0 with python 3.6.8 and pytorch 1.0.0.\
 The environment was setup using conda 4.5.12. Additional packages should be installed.
 
-# Pre-trained models
 
 
