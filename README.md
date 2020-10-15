@@ -1,6 +1,8 @@
 # Scene-LSTM
 
 
+![alt text](figures/system_overview.JPG)
+
 This code/implementation is available for research purposes. If you are using this code/data for your work, please cite the following paper:
 
 > Huynh, Manh, and Gita Alaghband. "Trajectory prediction by coupling scene-LSTM with human movement LSTM." International Symposium on Visual Computing. Springer, Cham, 2019.
