@@ -5,6 +5,8 @@ This code/implementation is available for research purposes. If you are using th
 
 > Huynh, Manh, and Gita Alaghband. "Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM." arXiv preprint arXiv:1908.08908 (2019). **To appear in ISVC 2019.**
 
+The code are a bit messy for now, we are doing some clean-ups. If you have any questions/inquiries, please send email to manh.huynh@ucdenver.edu. 
+
 # This repository contains
  :heavy_check_mark: Processed data (in pixel and meter metrics) for ETH and UCY datasets. This data was also used in SGAN method.
  ```bash
