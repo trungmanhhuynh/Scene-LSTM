@@ -3,9 +3,7 @@
 
 This code/implementation is available for research purposes. If you are using this code/data for your work, please cite the following paper:
 
-> Manh, Huynh and Alaghband, Gita. **Scene-LSTM: A Model for Human Trajectory Prediction**. *arXiv preprint arXiv:1808.04018 (2018).*
-
-> A new version of this paper will be coming soon. 
+> Huynh, Manh, and Gita Alaghband. "Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM." arXiv preprint arXiv:1908.08908 (2019). **To appear in ISVC 2019.**
 
 # This repository contains
  :heavy_check_mark: Processed data (in pixel and meter metrics) for ETH and UCY datasets. This data was also used in SGAN method.
